@@ -1,0 +1,48 @@
+Package: com.smeds.fleeze
+Version: 1.2-12
+Architecture: iphoneos-arm
+Maintainer: Giulio Smedile <bart172@me.com>
+Filename: ./debs/com.smeds.fleeze_1.0-12.deb
+Size: 1940164
+MD5sum: 3e45986e5546f035988fd4e311192b36
+SHA1: 355df400ed01e6764fb82dc07b353e554c762229
+SHA256: aeec69e5444e8f841f63057a5e0cb73728e5742c847f45dab63d06d634b2a405
+Section: Themes
+Homepage: http://twitter.com/smeds_
+Description: A touch of lightness.
+Author: Giulio Smedile <bart172@me.com>
+Depiction: http://bart172.github.io/repo/depictions/?p=com.smeds.fleeze
+Name: Fleeze
+
+Package: com.smeds.fleezedark
+Version: 1.2-12
+Architecture: iphoneos-arm
+Maintainer: Giulio Smedile <bart172@me.com>
+Filename: ./debs/com.smeds.fleezedark_1.0-12.deb
+Size: 11682164
+MD5sum: c114cf303f6be2f732a065fe1883a686
+SHA1: 2a005d0248a4cdeae5634fd2482c792f686170f4
+SHA256: 355e5b04275d094b459579cc6f9762d9783273bcbc78e8337dc3f1951afcf145
+Section: Themes
+Homepage: http://twitter.com/smeds_
+Description: A touch of Darkness.
+Author: Giulio Smedile <bart172@me.com>
+Depiction: http://bart172.github.io/repo/depictions/?p=com.smeds.fleezedark
+Name: Fleeze Dark
+
+Package: com.smeds.project2019
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: Giulio Smedile <bart172@me.com>
+Filename: ./debs/com.smeds.project2019.deb
+Size: 2136180
+MD5sum: c8ae13f4abb61d4ad08e79c97f8295bc
+SHA1: 9d0ec2ee17e5e2c4ccc978c0c31bb60c8e3163f3
+SHA256: 9a3ad9cc8ea52868c7a9698aa90998e52bd21e7f848fa486821f74d393e91309
+Section: Themes
+Homepage: http://twitter.com/smeds_
+Description: A touch of freshness.
+Author: Giulio Smedile <bart172@me.com>
+Depiction: https://bart172.github.io/repo/depictions/?p=com.smeds.project2019
+Name: Project 2019
+
