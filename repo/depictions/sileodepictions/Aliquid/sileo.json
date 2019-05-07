@@ -1,0 +1,82 @@
+{
+    "class": "DepictionTabView",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "title": "Aliquid"
+                },
+                {
+                    "markdown": "Prepare for something new.",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "itemCornerRadius": 6,
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://pbs.twimg.com/media/D5f-I75XkAApN1i?format=png&name=small"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://pbs.twimg.com/media/D4iNiVxXoAEL23z?format=png&name=small"
+                        }
+                    ],
+                    "class": "DepictionScreenshotsView",
+                    "itemSize": "{160, 275.41333333333336}"
+                },
+                {
+                    "useBottomMargin": false,
+                    "markdown": "#\u00a0Prepare for something new. Welcome to Aliquid.\r\n\r\nAliquid is a colourful, new theme. Based around both principles of Material and iOS design, it will give your device a new look!\r\nEvery icon is made from scratch and follows a very distinctive and rigid guideline, so to be sure every themed icon is coherent with one another.\r\n\r\n\r\nThe theme contains 150 icons and 3 wallpapers, and more to come!\r\n\r\nThe theme will be updated as time goes by. ",
+                    "class": "DepictionMarkdownView",
+                    "useBoldText": true,
+                    "title": "markdown-description"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "1.0",
+                    "title": "Version"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "05-07-2019",
+                    "title": "Released"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "1.49",
+                    "title": "Price"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "Giulio Smedile",
+                    "title": "Developer"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                }
+            ]
+        }
+    ],
+    "headerImage": "https://pbs.twimg.com/media/D55uRwZXkAUveOV?format=png&name=900x900",
+    "minVersion": "0.1",
+    "tintColor": "#0657bb"
+}

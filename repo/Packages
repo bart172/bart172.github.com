@@ -31,18 +31,19 @@ Depiction: http://bart172.github.io/repo/depictions/?p=com.smeds.fleezedark
 Name: Fleeze Dark
 
 Package: com.smeds.project2019
-Version: 0.5
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Giulio Smedile <bart172@me.com>
 Filename: ./debs/com.smeds.project2019.deb
-Size: 3676004
-MD5sum: 52c84c9e1e7fd6ad4ffa40ee550d1c01
-SHA1: 86ef8da82ed358d88f0ef2f25048381eb0f671dc
-SHA256: 90a75c1cc5ed0aa2f4c5f18cb14c7a20f007a70a2676e9a1c9e45d7dd8580457
+Size: 4331700
+MD5sum: 661e948c1e4f68261113c01ef041fc77
+SHA1: 62a57f8ab2dfd93f04bb9fffdad1635e9ccf6e17
+SHA256: 20b4761fec1310cedf875646e179920ab50fd9497cefcb2286fab47ec52bea05
 Section: Themes
 Homepage: http://twitter.com/smeds_
 Description: A touch of freshness.
 Author: Giulio Smedile <bart172@me.com>
 Depiction: https://bart172.github.io/repo/depictions/?p=com.smeds.project2019
 Name: Aliquid
+SileoDepiction: https://bart172.github.io/repo/depictions/sileodepictions/Aliquid/sileo.json
 
