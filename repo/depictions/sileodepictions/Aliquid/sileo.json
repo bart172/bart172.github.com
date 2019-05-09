@@ -6,21 +6,6 @@
             "class": "DepictionStackView",
             "views": [
                 {
-                    "useBottomMargin": false,
-                    "class": "DepictionSubheaderView",
-                    "useBoldText": true,
-                    "title": "Aliquid"
-                },
-                {
-                    "markdown": "Prepare for something new.",
-                    "useSpacing": true,
-                    "class": "DepictionMarkdownView"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {
                     "itemCornerRadius": 6,
                     "screenshots": [
                         {

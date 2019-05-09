@@ -35,10 +35,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Giulio Smedile <bart172@me.com>
 Filename: ./debs/com.smeds.project2019.deb
-Size: 4484000
-MD5sum: f8b9a3a2a6701aa9ac95af8f877d3e5d
-SHA1: aa37ac4fdb216dc6e89f5f190c31a7af068aa461
-SHA256: 6ec24a73881f1b511b7d3736f1ce9615fc559d09748c72f142380c8838fc47c2
+Size: 4484096
+MD5sum: 1d9c02f803436f3b609a320d6e5d3d86
+SHA1: e0828c0f3760c7c47871120514f65f99b73ae26d
+SHA256: 8c127bedc8ef4b3560aa45274d60e30442caf1b4854e2f9085f92630ebcb1b65
 Section: Themes
 Homepage: http://twitter.com/smeds_
 Description: A touch of freshness.
