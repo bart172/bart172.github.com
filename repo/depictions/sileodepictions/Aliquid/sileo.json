@@ -22,7 +22,7 @@
                 },
                 {
                     "useBottomMargin": false,
-                    "markdown": "##\u00a0Prepare for something new. Welcome to Aliquid.\r\n\r\nAliquid is a colourful, new theme. Based around both principles of Material and iOS design, it will give your device a new look!\r\nEvery icon is made from scratch and follows a very distinctive and rigid guideline, so to be sure every themed icon is coherent with one another.\r\n\r\n\r\nThe theme contains 150 icons and 3 wallpapers, and more to come!\r\n\r\nThe theme will be updated as time goes by. ",
+                    "markdown": "## Para Aliquid Novi\r\nPrepare for something new. This latin phrase is the focus point of this theme. Aliquid is a colorful, new theme, based off principles of Material and iOS design alike, it will give your device a new look!\r\nEvery icon is made from scratch and follows a very distinctive and rigid guideline, so to be sure every icon is coherent to the style.\r\n\r\n## Features\r\n\r\n--* 150 themed icons (with at least 200 to come with future updates)\r\n--* 3 unique wallpapers (link available below)\r\n--* Alternative icons to give you more choice.",
                     "class": "DepictionMarkdownView",
                     "useBoldText": true,
                     "title": "markdown-description"
