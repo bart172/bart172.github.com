@@ -22,7 +22,7 @@
                 },
                 {
                     "useBottomMargin": false,
-                    "markdown": "## Para Aliquid Novi\r\nPrepare for something new. This latin phrase is the focus point of this theme. Aliquid is a colorful, new theme, based off principles of Material and iOS design alike, it will give your device a new look!\r\nEvery icon is made from scratch and follows a very distinctive and rigid guideline, so to be sure every icon is coherent to the style.\r\n\r\n## Features\r\n\r\n* 150 themed icons (with at least 200 to come with future updates)\r\n* 3 unique wallpapers (link available below)\r\n* Alternative icons to give you more choice.",
+                    "markdown": "## Para Aliquid Novi\r\nPrepare for something new. This latin phrase is the focus point of this theme. Aliquid is a colorful, new theme, based off principles of Material and iOS design alike, it will give your device a new look!\r\nEvery icon is made from scratch and follows a very distinctive and rigid guideline, so to be sure every icon is coherent to the style.\r\n\r\n## Features\r\n\r\n* 150 themed icons (with at least 200 to come with future updates)\r\n* 3 unique wallpapers (link available below)\r\n* Alternative icons to give you more choice\r\n*Themed preference pane\r\n*Support for iOS 7-12, with dynamic calendar for both iPhones and iPads.",
                     "class": "DepictionMarkdownView",
                     "useBoldText": true,
                     "title": "markdown-description"
