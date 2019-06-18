@@ -47,21 +47,21 @@ Depiction: https://bart172.github.io/repo/depictions/?p=com.smeds.project2019
 Name: Aliquid
 Sileodepiction: https://bart172.github.io/repo/depictions/sileodepictions/Aliquid/sileo.json
 
-Package: com.smeds.project2019livewalls
-Version: 1.0
+Package: com.smeds.project2019
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Giulio Smedile <bart172@me.com>
 Filename: ./debs/com.smeds.project2019livewalls.deb
-Size: 4588472
-MD5sum: ba42a82b4796836c993a7a59ca192706
-SHA1: 7a9252646c6ab1220b3e6d8d9da3369298250da4
-SHA256: 8dfdbec549bf5b30731b4d853df3e8fb690e6e1f162b7c55a9dadda7cae545b9
+Size: 5939352
+MD5sum: dc33b46d4605e34e8848de3de6236542
+SHA1: 135d5ed5f02bce92cb13e022a1d0a03e8fd98fd3
+SHA256: cecb4cf3b63c38db3137a8f8ad6cd4323f92f690325fa876a37ae13be4dac7cf
 Section: Themes
 Homepage: http://twitter.com/smeds_
-Description: A touch of freshness.
+Description: Prepare for something new.
 Author: Giulio Smedile <bart172@me.com>
 Depiction: https://bart172.github.io/repo/depictions/?p=com.smeds.project2019
-Name: Aliquid Live Wallpapers
+Name: Aliquid
 Sileodepiction: https://bart172.github.io/repo/depictions/sileodepictions/Aliquid/sileo.json
 
 Package: com.smeds.project2019walls
