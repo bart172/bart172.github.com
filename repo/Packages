@@ -30,54 +30,20 @@ Author: Giulio Smedile <bart172@me.com>
 Depiction: http://bart172.github.io/repo/depictions/?p=com.smeds.fleezedark
 Name: Fleeze Dark
 
-Package: com.smeds.project2019
-Version: 1.0R
-Architecture: iphoneos-arm
-Maintainer: Giulio Smedile <bart172@me.com>
-Filename: ./debs/com.smeds.project2019.deb
-Size: 5272888
-MD5sum: f26871d25fb32d7b292e970b4a86594c
-SHA1: 354c88cbe6159cb8abb427a3548a42f1d18a45b3
-SHA256: 7a3c4997b7e66c890d4ddad6ea852cfe2eb88e748697e15c5b39d4cb86c0dcff
-Section: Themes
-Homepage: http://twitter.com/smeds_
-Description: Prepare for something new.
-Author: Giulio Smedile <bart172@me.com>
-Depiction: https://bart172.github.io/repo/depictions/?p=com.smeds.project2019
-Name: Aliquid
-Sileodepiction: https://bart172.github.io/repo/depictions/sileodepictions/Aliquid/sileo.json
-
-Package: com.smeds.project2019
-Version: 1.1
+Package: com.smeds.project2019livewalls
+Version: 1.01.livewalls
 Architecture: iphoneos-arm
 Maintainer: Giulio Smedile <bart172@me.com>
 Filename: ./debs/com.smeds.project2019livewalls.deb
-Size: 5939352
-MD5sum: dc33b46d4605e34e8848de3de6236542
-SHA1: 135d5ed5f02bce92cb13e022a1d0a03e8fd98fd3
-SHA256: cecb4cf3b63c38db3137a8f8ad6cd4323f92f690325fa876a37ae13be4dac7cf
-Section: Themes
-Homepage: http://twitter.com/smeds_
-Description: Prepare for something new.
-Author: Giulio Smedile <bart172@me.com>
-Depiction: https://bart172.github.io/repo/depictions/?p=com.smeds.project2019
-Name: Aliquid
-Sileodepiction: https://bart172.github.io/repo/depictions/sileodepictions/Aliquid/sileo.json
-
-Package: com.smeds.project2019walls
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Giulio Smedile <bart172@me.com>
-Filename: ./debs/com.smeds.project2019walls.deb
-Size: 9006352
-MD5sum: ac04afe4607958d666d21f7e25454041
-SHA1: d11ef37b7cc8eaefc08661f3e3cc7f023edf8585
-SHA256: 0bcf8ce931638a13b49b8030b58833fb6ad28521b16e7e221ea1b0133543d9e9
+Size: 4759144
+MD5sum: 0103147e01dc349f2cf428052e42e9f5
+SHA1: 91a39247bc7377ff08c1f360b4e0c8f4f6db1646
+SHA256: 77610bf68a439e7006aa4a713fe9b20edd498dab681b182e85be0088e05c5820
 Section: Themes
 Homepage: http://twitter.com/smeds_
 Description: A touch of freshness.
 Author: Giulio Smedile <bart172@me.com>
 Depiction: https://bart172.github.io/repo/depictions/?p=com.smeds.project2019
-Name: Aliquid Wallpapers
+Name: Aliquid Live Wallpapers
 Sileodepiction: https://bart172.github.io/repo/depictions/sileodepictions/Aliquid/sileo.json
 
