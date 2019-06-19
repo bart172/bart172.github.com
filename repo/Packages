@@ -35,10 +35,10 @@ Version: 1.01.livewalls
 Architecture: iphoneos-arm
 Maintainer: Giulio Smedile <bart172@me.com>
 Filename: ./debs/com.smeds.project2019livewalls.deb
-Size: 4759144
-MD5sum: 0103147e01dc349f2cf428052e42e9f5
-SHA1: 91a39247bc7377ff08c1f360b4e0c8f4f6db1646
-SHA256: 77610bf68a439e7006aa4a713fe9b20edd498dab681b182e85be0088e05c5820
+Size: 4759088
+MD5sum: 4ae1f0665ef61037ba2d5bd89714b117
+SHA1: 95895fc1d268d81f4a41c5d41994827e60d893fd
+SHA256: 92910fd809af3aff7a68174e9ebc9502eb7fc1934e6857dcada839354aa1beec
 Section: Themes
 Homepage: http://twitter.com/smeds_
 Description: A touch of freshness.
