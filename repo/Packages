@@ -30,6 +30,24 @@ Author: Giulio Smedile <bart172@me.com>
 Depiction: http://bart172.github.io/repo/depictions/?p=com.smeds.fleezedark
 Name: Fleeze Dark
 
+Package: com.smeds.project2019
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Giulio Smedile <bart172@me.com>
+Filename: ./debs/com.smeds.project2019.deb
+Size: 5938852
+MD5sum: ad8337826ae186876612793c6ced3cd8
+SHA1: dbb5994408caa2a85c2ae163f733cfd4b2560151
+SHA256: 25d62b7c22e32830055e0c2bd0c7150a1ab2cdf15bef4867e60a5cd4a218bf55
+Section: Themes
+Homepage: http://twitter.com/smeds_
+Description: Prepare for something new.
+Author: Giulio Smedile <bart172@me.com>
+Depiction: https://bart172.github.io/repo/depictions/?p=com.smeds.project2019
+Icon: file:///Library/Themes/Aliquid Icons.theme
+Name: Aliquid
+Sileodepiction: https://bart172.github.io/repo/depictions/sileodepictions/Aliquid/sileo.json
+
 Package: com.smeds.project2019livewalls
 Version: 1.01.livewalls
 Architecture: iphoneos-arm
