@@ -53,15 +53,16 @@ Version: 1.01.livewalls
 Architecture: iphoneos-arm
 Maintainer: Giulio Smedile <bart172@me.com>
 Filename: ./debs/com.smeds.project2019livewalls.deb
-Size: 6204332
-MD5sum: 0784814cb3e3c4b8ca4c4f3d2d9cd4fd
-SHA1: 9e58f414209e6104132c6b382d7c5625261b3093
-SHA256: 6a282bb82dc1f71b7d03d398dd385af6225b16ca0c78a52bdaf6dec0f8e9f1a9
+Size: 6415128
+MD5sum: 0b87475d458c3aea9bd1e215a89d808b
+SHA1: a376e6fabd7407105e2beeb4661048977d5909b2
+SHA256: fb681135fcabd580627dfc0888083303dc705144edee90232a8bd3ceac612d98
 Section: Themes
 Homepage: http://twitter.com/smeds_
 Description: A touch of freshness.
 Author: Giulio Smedile <bart172@me.com>
 Depiction: https://bart172.github.io/repo/depictions/?p=com.smeds.project2019
+Icon: file:///Library/Themes/Aliquid LW.theme/Icon.png
 Name: Aliquid Live Wallpapers
 Sileodepiction: https://bart172.github.io/repo/depictions/sileodepictions/Aliquid/sileo.json
 
