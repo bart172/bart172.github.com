@@ -71,10 +71,10 @@ Version: 0
 Architecture: iphoneos-arm
 Maintainer: Giulio Smedile <bart172@me.com>
 Filename: ./debs/com.smeds.projectblur.deb
-Size: 23548
-MD5sum: d674261232d3a8298ea29a84fa4640bf
-SHA1: f6eda1bb775f36f7a5b8ddfbb7684ce0a3cca82b
-SHA256: 967d55f69e39b31491413bb0669049d46ec22288ee539aeff583a7a531a20c1c
+Size: 23744
+MD5sum: 65111bf6768acfce15aa2996a0c9ea0b
+SHA1: c9594a986c815f5b38a3fe87279b5a13827067b2
+SHA256: d5c908870190175961f529d6d60b8909ce0c6e09b88786c34237c139590a4ecc
 Section: Themes
 Homepage: http://twitter.com/smeds_
 Description: Prepare for something new.
