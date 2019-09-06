@@ -54,9 +54,9 @@ Architecture: iphoneos-arm
 Maintainer: Giulio Smedile <bart172@me.com>
 Filename: ./debs/com.smeds.project2019livewalls.deb
 Size: 6415128
-MD5sum: 0b87475d458c3aea9bd1e215a89d808b
-SHA1: a376e6fabd7407105e2beeb4661048977d5909b2
-SHA256: fb681135fcabd580627dfc0888083303dc705144edee90232a8bd3ceac612d98
+MD5sum: 714a74ba156a11791a5fb87349761523
+SHA1: acb163ed1c69922455e2e27f7105e936702ac15f
+SHA256: 3b1535b22a90d3665b1b7adc0c94370ad19a3500f96a0c7749406f05a2341fe4
 Section: Themes
 Homepage: http://twitter.com/smeds_
 Description: A touch of freshness.
@@ -64,5 +64,23 @@ Author: Giulio Smedile <bart172@me.com>
 Depiction: https://bart172.github.io/repo/depictions/?p=com.smeds.project2019
 Icon: file:///Library/Themes/Aliquid LW.theme/Icon.png
 Name: Aliquid Live Wallpapers
+Sileodepiction: https://bart172.github.io/repo/depictions/sileodepictions/Aliquid/sileo.json
+
+Package: com.smeds.projectblur
+Version: 0
+Architecture: iphoneos-arm
+Maintainer: Giulio Smedile <bart172@me.com>
+Filename: ./debs/com.smeds.projectblur.deb
+Size: 23548
+MD5sum: d674261232d3a8298ea29a84fa4640bf
+SHA1: f6eda1bb775f36f7a5b8ddfbb7684ce0a3cca82b
+SHA256: 967d55f69e39b31491413bb0669049d46ec22288ee539aeff583a7a531a20c1c
+Section: Themes
+Homepage: http://twitter.com/smeds_
+Description: Prepare for something new.
+Author: Giulio Smedile <bart172@me.com>
+Depiction: https://bart172.github.io/repo/depictions/?p=com.smeds.project2019
+Icon: file:///Library/Themes/Aliquid Icons.theme/Icon.png
+Name: zBlur
 Sileodepiction: https://bart172.github.io/repo/depictions/sileodepictions/Aliquid/sileo.json
 
