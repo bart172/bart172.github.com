@@ -67,14 +67,14 @@ Name: Aliquid Live Wallpapers
 Sileodepiction: https://bart172.github.io/repo/depictions/sileodepictions/Aliquid/sileo.json
 
 Package: com.smeds.projectblur
-Version: 0
+Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Giulio Smedile <bart172@me.com>
 Filename: ./debs/com.smeds.projectblur.deb
-Size: 23744
-MD5sum: 65111bf6768acfce15aa2996a0c9ea0b
-SHA1: c9594a986c815f5b38a3fe87279b5a13827067b2
-SHA256: d5c908870190175961f529d6d60b8909ce0c6e09b88786c34237c139590a4ecc
+Size: 146732
+MD5sum: 63e0e0cd76baa373679845e5e939dd9c
+SHA1: 967d877eb7fb48f10642a2460681c714e1c5de2e
+SHA256: e67582dd4b2a5f807f7221cab1934314c1751973db6b618ff278f0582528e95f
 Section: Themes
 Homepage: http://twitter.com/smeds_
 Description: Prepare for something new.
