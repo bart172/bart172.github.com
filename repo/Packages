@@ -1,3 +1,21 @@
+Package: com.smeds.alibi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Giulio Smedile <bart172@me.com>
+Filename: ./debs/com.smeds.alibi.deb
+Size: 3345248
+MD5sum: f1c0b4a99baa39e354c4c12e1c76fcca
+SHA1: 0dc29caae64c8645c724b1d83a397431ab18e28d
+SHA256: d72682e8abeca968140c4e41da29bca5595590d1e377d6432ded09f0e32de6f5
+Section: Themes
+Homepage: http://twitter.com/smeds_
+Description: True Material, for iOS.
+Author: Giulio Smedile <bart172@me.com>
+Depiction: https://bart172.github.io/repo/depictions/?p=com.smeds.project2019
+Icon: file:///Library/Themes/Aliquid Icons.theme/Icon.png
+Name: Aliquid
+Sileodepiction: https://bart172.github.io/repo/depictions/sileodepictions/Aliquid/sileo.json
+
 Package: com.smeds.fleeze
 Version: 1.2-12
 Architecture: iphoneos-arm
