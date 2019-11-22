@@ -49,14 +49,14 @@ Depiction: http://bart172.github.io/repo/depictions/?p=com.smeds.fleezedark
 Name: Fleeze Dark
 
 Package: com.smeds.project2019
-Version: 1.1
+Version: 1.5.2
 Architecture: iphoneos-arm
 Maintainer: Giulio Smedile <bart172@me.com>
 Filename: ./debs/com.smeds.project2019.deb
-Size: 5938844
-MD5sum: da524dc297727606e9fc2a7bc794a9e2
-SHA1: cbe7cd14fff91b92f352a2972e97a01d27d7baae
-SHA256: dafdf19f1ecc1e1be8de444ac8f0c4e7946f958653f0611672c82bf5f7e858a3
+Size: 7180828
+MD5sum: 75a99b6548785a32ba1c24f99c452f16
+SHA1: 81e79610c0073a5a35d6c51345c68ac636b5320b
+SHA256: 6fa4afb7546f0cd5b3e8608ce6fedcaae6cd604dc6aa0e8adc34b61badb0898d
 Section: Themes
 Homepage: http://twitter.com/smeds_
 Description: Prepare for something new.
