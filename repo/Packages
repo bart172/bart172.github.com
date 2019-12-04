@@ -84,21 +84,19 @@ Icon: file:///Library/Themes/Aliquid LW.theme/Icon.png
 Name: Aliquid Live Wallpapers
 Sileodepiction: https://bart172.github.io/repo/depictions/sileodepictions/Aliquid/sileo.json
 
-Package: com.smeds.projectblur
-Version: 0.1
+Package: com.smeds.sidecarapp
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Giulio Smedile <bart172@me.com>
-Filename: ./debs/com.smeds.projectblur.deb
-Size: 146732
-MD5sum: 63e0e0cd76baa373679845e5e939dd9c
-SHA1: 967d877eb7fb48f10642a2460681c714e1c5de2e
-SHA256: e67582dd4b2a5f807f7221cab1934314c1751973db6b618ff278f0582528e95f
-Section: Themes
+Depends: firmware (>=13.2)
+Filename: ./debs/com.smeds.sidecarapp.deb
+Size: 399376
+MD5sum: 165e336ea14e8732409e52c8910de634
+SHA1: 6411868e72d9f7b68e1734517a292fcdec0d3728
+SHA256: 2f056ab7422d3084b11f66a6021e7f360c6bcd97e4b029a0d8c9dbb6d2ba9afb
+Section: Applications
 Homepage: http://twitter.com/smeds_
-Description: Prepare for something new.
+Description: Sidecar app as extracted from iPadOS
 Author: Giulio Smedile <bart172@me.com>
-Depiction: https://bart172.github.io/repo/depictions/?p=com.smeds.project2019
-Icon: file:///Library/Themes/Aliquid Icons.theme/Icon.png
-Name: zBlur
-Sileodepiction: https://bart172.github.io/repo/depictions/sileodepictions/Aliquid/sileo.json
+Name: SidecarApp
 
